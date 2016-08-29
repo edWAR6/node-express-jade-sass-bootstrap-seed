@@ -1,0 +1,20 @@
+# Created by https://www.gitignore.io/api/sass,bower
+
+### Sass ###
+.sass-cache/
+*.css.map
+
+
+### Bower ###
+public/libs/*
+bower_components
+.bower-cache
+.bower-registry
+.bower-tmp
+
+### npm ###
+node_modules
+jspm_packages
+.npm
+.eslintcache
+.node_repl_history
