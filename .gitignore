@@ -6,7 +6,7 @@
 
 
 ### Bower ###
-public/libs/*
+libs
 bower_components
 .bower-cache
 .bower-registry
